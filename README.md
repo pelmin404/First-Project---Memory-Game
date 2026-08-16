@@ -1,4 +1,4 @@
-# First-Project---Memory-Game
+# First-Project_Memory-Game
 
 A small circuit board Simon type game based on Arduino's ATmega328P
 
@@ -16,6 +16,6 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 # 📼 Video examples
 ## Click the links below
 
-[Win example]()
-[Loss example]()
-[Power indicator]()
+[Win example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Win%20example.mp4)
+[Loss example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Loss%20example.mp4)
+[Power indicator](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Power%20indicator.mp4)
