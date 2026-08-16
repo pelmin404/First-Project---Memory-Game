@@ -31,5 +31,8 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 - 5 10 kΩ resistors
 - 4 220 Ω resistors
 - 1 470 Ω resistor
-- 1 
+- 1 22 kΩ resistor
+- 1 0.33 μF capacitor
+- 1 0.1 μF capacitor
+- A 10 kΩ footprint fitting potentiometer
 - Any 5 mm LED and a diode that fits the footprint, that have a total voltage drop of 2 V
