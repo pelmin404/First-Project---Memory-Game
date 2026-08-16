@@ -17,5 +17,7 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 ## Click the links below
 
 [Win example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Win%20example.mp4)
+
 [Loss example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Loss%20example.mp4)
+
 [Power indicator](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Power%20indicator.mp4)
