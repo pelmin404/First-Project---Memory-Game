@@ -20,3 +20,16 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 [Loss example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Loss%20example.mp4)
 
 [Power indicator](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Power%20indicator.mp4)
+
+# ⚙️ Part List
+
+- [ATMEGA328P-PU](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-PU/1914589)
+- [Leo Sales Ltd. 10mm 2x6 Colors LED](https://www.microcenter.com/product/511285/leo-sales-ltd-10mm-2x6-colors-led)
+- [Tactile Button Assortment](https://www.microcenter.com/product/427684/tactile-button-assortment)
+- [L7805CV]()
+- [PMOS]()
+- 5 10 kΩ resistors
+- 4 220 Ω resistors
+- 1 470 Ω resistor
+- 1 
+- Any 5 mm LED and a diode that fits the footprint, that have a total voltage drop of 2 V
