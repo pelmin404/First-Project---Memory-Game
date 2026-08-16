@@ -14,7 +14,6 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 ## ⚠️ Please note that some mechanical switches may produce a noisy signal that forces the MCU to think you pressed the button multiple times
 
 # 📼 Video examples
-## Click the links below
 
 [Win example](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Videos/Win%20example.mp4)
 
