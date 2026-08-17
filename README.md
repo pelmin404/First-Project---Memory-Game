@@ -24,6 +24,7 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 # ⚙️ Part List
 
 - [ATMEGA328P-PU](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-PU/1914589)
+- [MCU socket](https://www.digikey.com/en/products/detail/3m/4828-3004-CP/1133633?s=N4IgTCBcDaIMwFkCsAWAHABgLQDkAiIAugL5A)
 - [Leo Sales Ltd. 10mm 2x6 Colors LED](https://www.microcenter.com/product/511285/leo-sales-ltd-10mm-2x6-colors-led)
 - [Tactile Button Assortment](https://www.microcenter.com/product/427684/tactile-button-assortment)
 - [L7805CV]()
