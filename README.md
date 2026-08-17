@@ -4,7 +4,7 @@ A small circuit board Simon type game based on Arduino's ATmega328P
 
 This game is made to improve short term memory under load and just to spend time when bored.
 
-![](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/Photo.jpg)
+![](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/images/Photo.jpg)
 
 # 🛠️ Technical Details
 ### The MCU is programmed with an internal 8 MHz clock
@@ -38,4 +38,4 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 - A 6 mm THT momentary push button
 - Any 5 mm LED and a diode that fits the footprint, that have a total voltage drop of 2 V
 
-![](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/KiCAD%20files/Memory-game.pdf)
+![](https://github.com/pelmin404/First-Project_Memory-Game/blob/main/images/schematic.png)
