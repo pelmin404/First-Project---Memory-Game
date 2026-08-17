@@ -27,12 +27,13 @@ It works on the same MCU found in Arduino UNO R3 and a few others. It can be pow
 - [Leo Sales Ltd. 10mm 2x6 Colors LED](https://www.microcenter.com/product/511285/leo-sales-ltd-10mm-2x6-colors-led)
 - [Tactile Button Assortment](https://www.microcenter.com/product/427684/tactile-button-assortment)
 - [L7805CV]()
-- [PMOS]()
+- [5V 1.5A Linear Voltage Regulator - 7805 TO-220](https://www.adafruit.com/product/2164)
 - 5 10 kΩ resistors
 - 4 220 Ω resistors
-- 1 470 Ω resistor
 - 1 22 kΩ resistor
 - 1 0.33 μF capacitor
 - 1 0.1 μF capacitor
-- A 10 kΩ footprint fitting potentiometer
+- [Leo Sales Ltd. PCB Mounted Piezo Buzzer - 9x5.5mm (10 Pack)](https://www.microcenter.com/product/677928/leo-sales-ltd-pcb-mounted-piezo-buzzer-9x55mm-(10-pack))
+- A 10 kΩ potentiometer, I used an ACP CA9-V10 footprint
+- A 6 mm THT momentary push button
 - Any 5 mm LED and a diode that fits the footprint, that have a total voltage drop of 2 V
